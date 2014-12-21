@@ -1,0 +1,17 @@
+.Data{
+  background: #E8EAF6;
+  
+  display: block;
+  height:0%;
+  width: 80%;
+  margin: 10px auto 10px;
+  border-radius: 8px;
+   box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.8);
+   padding: 4%;
+   color: #000;
+}
+
+#calculator{
+	background: #3F51B5;
+
+}
