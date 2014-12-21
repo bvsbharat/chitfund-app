@@ -12,8 +12,9 @@
 }
 
 #calculator{
-	background: #3F51B5;
+	background: #FFC107;
 
 }
 [data-role=page]{height: 100% !important; position:relative !important;}
 [data-role=footer]{bottom:0; position:absolute !important; top: auto !important; width:100%;}  
+[ui-header ui-bar-a]{color: #E8EAF6;}

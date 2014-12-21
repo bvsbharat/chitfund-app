@@ -40,3 +40,12 @@ $("#goneFor").val('');
 
 $(".Data").hide();
 }
+ function onLoad()
+            {
+                  document.addEventListener("deviceready", onDeviceReady, true);
+            }
+
+            function exitFromApp()
+             {
+                navigator.app.exitApp();
+             }

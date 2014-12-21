@@ -10,7 +10,7 @@
 	<script src="scripts/jquery.mobile-1.1.0.min.js" type="text/javascript"></script>
 	<link rel="stylesheet" type="text/css" href="style.css"></link>
 </head>
-<body>
+<body onload="onLoad()">
 	<div id="calculator" data-role="page" data-theme="a" data-rockncoder-jspage="calculator">
 		<header data-role="header">
 			<h1>My App</h1>
@@ -37,7 +37,7 @@
 		<div class="Data"  >
 			
 			</div>
-		<footer data-role="footer"><h1>Exit</h1> </footer> 
+		<footer data-role="footer" onClick="exitFromApp()"><h1>Exit</h1> </footer> 
 	</div><br/>
 
 	<script src="scripts/hideAddressBar.js" type="text/javascript"></script>
