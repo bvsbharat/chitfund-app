@@ -1,14 +1,14 @@
 .Data{
   background: #E8EAF6;  
   display: block;
-  height:34%;
+  height:40%;
   width: 80%;
   margin: 10px auto 10px;
   border-radius: 8px;
   box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.8);
   color: #000;
   padding-left: 3%;
-  padding-bottom: 4%;
+  padding-bottom: 2%;
   padding-top: 1%;
 }
 
