@@ -7,8 +7,9 @@
   margin: 10px auto 10px;
   border-radius: 8px;
    box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.8);
-   padding: 4%;
+   padding: 5%;
    color: #000;
+   padding-bottom: 8%;
 }
 
 #calculator{
